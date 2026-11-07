@@ -572,6 +572,7 @@ WEB_SEARCH_CLAUDE_MODELS=
 # Example: openai:gpt-5.5, minimax:MiniMax-M2.7-highspeed,
 # bedrock:us.anthropic.claude-sonnet-5
 DEFAULT_MODEL=
+ALLOW_LOCAL_NETWORKS=True
 
 # Per-stage models are slots in openmaic.yml (course.outline,
 # course.content.slide, classroom, agent, ...). MODEL_ROUTES is no longer read:
